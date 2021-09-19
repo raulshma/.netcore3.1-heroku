@@ -1,0 +1,89 @@
+﻿{
+   "CodeGenerationMode": 1,
+   "ContextClassName": "NorthwindContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "NorthwindApi",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "public.customer_demographics",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.order_details",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.employees",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.suppliers",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.customers",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.territories",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.orders",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.shippers",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.customer_customer_demo",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.categories",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.products",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.employee_territories",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.us_states",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.region",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "nw",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": true,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": true,
+   "UseNoObjectFilter": true,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": true,
+   "UseSpatial": false
+}
